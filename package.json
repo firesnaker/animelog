@@ -1,0 +1,25 @@
+{
+  "name": "animelog",
+  "version": "1.0.0",
+  "description": "Anime Log, Anime Collection, Anime List",
+  "main": "index.js",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/firesnaker/animelog.git"
+  },
+  "keywords": [],
+  "author": "Ricky Kurniawan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/firesnaker/animelog/issues"
+  },
+  "homepage": "https://github.com/firesnaker/animelog#readme"
+}
